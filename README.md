@@ -7,7 +7,6 @@ Analisis data penjualan video game dari berbagai platform, genre, dan wilayah un
 ### 👤 Author
 
 I Gusti Agung Agastya Tarumawijaya
-Batch: RMT-040
 
 ### 🔗 Dashboard Tableau
 
